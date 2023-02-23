@@ -6,7 +6,7 @@ $ npx cap init
 $ ionic build
 $ npm install @capacitor/android
 $ npx cap add android
-$ npm install @capacitor/app                                             
+$ npm install @capacitor/app
 
 $ npx cap copy
 $ npx cap sync
